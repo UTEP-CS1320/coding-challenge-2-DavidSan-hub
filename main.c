@@ -34,7 +34,7 @@ if (s > d) {      // if Systolic is > Diastolic
   }
 }
 else {   // if Systolic is < Diastolic
-    printf("Error\n");
+    printf("ERROR\n");
   }
   return 0;
 }
